@@ -2,7 +2,7 @@
 const CONFIG = {
   // ---- Prolific and data saving ----
   // Completion code from your Prolific study page (Study > Completion paths).
-  PROLIFIC_COMPLETION_CODE: "REPLACE_ME",
+  PROLIFIC_COMPLETION_CODE: "CSDGFR2Z",
   // DataPipe experiment ID (https://pipe.jspsych.org). Leave "" to skip saving (testing only).
   DATAPIPE_ID: "0pxk8DHAkLZp",
 
@@ -99,7 +99,7 @@ const CONFIG = {
     is conducting a research study to learn how people judge the attractiveness of faces seen alone and
     in groups. You are being asked to take part because you are an adult who is eligible for this study on Prolific.</p>
     <p><b>What you will do.</b> You will see pictures of people and rate how attractive one marked person is,
-    using a slider. The study takes about 25 minutes. You will receive $4.00 through Prolific for completing it.</p>
+    using a slider. The study takes about 25 minutes. You will receive $6.00 through Prolific for completing it.</p>
     <p><b>Risks.</b> The main risk is that information about you could be released to an unauthorized party.
     To reduce this risk, your responses are identified only by your Prolific ID and a study number,
     and the record linking them is kept separately from the study data. Data are stored securely
